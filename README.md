@@ -15,8 +15,3 @@ or
 ```shell
 node index.js [1-12]
 ```
-## Running tests
-```shell
-npm install
-npm run test
-```
